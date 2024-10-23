@@ -12,12 +12,12 @@ I believe I could enhance this code by making it more secure, along with adding 
 
 4. Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
-5. The hardest piece of code I came across was the Validation of the user input. I had to do a ton of google searches to come across suggestions that it turned out that I ended up accidently having an extra cin.ignore code and that messed up quite a bit of things for me. I now know to look more carefully.&nbsp;
+ The hardest piece of code I came across was the Validation of the user input. I had to do a ton of google searches to come across suggestions that it turned out that I ended up accidently having an extra cin.ignore code and that messed up quite a bit of things for me. I now know to look more carefully.&nbsp;
 
-6. What skills from this project will be particularly transferable to other projects or course work?
+5. What skills from this project will be particularly transferable to other projects or course work?
 
 I believe that learning C++ in this project will help me going forward to create future projects as I now know how to do menu's well and loops better.
 
-7. How did you make this program maintainable, readable, and adaptable?
+6. How did you make this program maintainable, readable, and adaptable?
 
 I made this program maintainable readable and adaptable by having a shorter Main function using a class and then also providing inline comments that are up to speed with best practices.&nbsp;
